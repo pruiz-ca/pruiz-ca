@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pruiz-ca@student.42madrid.com 
 
 ![](https://github-readme-stats.vercel.app/api?username=pruiz-ca&count_private=true&show_icons=true&theme=dark&hide_title=true)
+
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/pruiz-ca)](https://www.42madrid.com/en)
