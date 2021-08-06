@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning C at [42 Madrid](https://www.42madrid.com/en/)
+- 🌱 I’m currently learning C and C++ at [42 Madrid](https://www.42madrid.com/en/)
 - 📫 How to reach me: pruiz-ca@student.42madrid.com 
 
 ![](https://github-readme-stats.vercel.app/api?username=pruiz-ca&count_private=true&show_icons=true&theme=dark&hide_title=true)
