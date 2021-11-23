@@ -15,7 +15,6 @@
 - 📫 Contact me by [email](mailto:pruiz-ca@student.42madrid.com) or [LinkedIn](https://www.linkedin.com/in/pruiz-ca/)
  
  [![42 stats](https://badge42.herokuapp.com/api/stats/pruiz-ca?darkmode=true&privacyName=true)](https://www.42madrid.com/en)
-</div>
 
 <h2>Languages and tools</h2>
 <p align="center">
@@ -38,7 +37,6 @@
 </p>
 
 <h2>Some stats</h2>
-<div align="center">
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pruiz-ca&count_private=true&show_icons=true&theme=tokyonight) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=pruiz-ca&theme=tokyonight) -->
