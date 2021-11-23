@@ -11,10 +11,14 @@
 
 - 🌱 Currently learning Machine Learning and JS at [42Madrid](https://www.42madrid.com/en/)
 - 🧑🏻‍💻 C and C++ developer
-- 👨🏻‍🎓 This is my [42 curriculum](https://companies.intra.42.fr/users/82370/resumes/5941)
+- 👨🏻‍🎓 [This](https://companies.intra.42.fr/users/82370/resumes/5941) is my 42 curriculum
 - 📫 Contact me by [email](mailto:pruiz-ca@student.42madrid.com) or [LinkedIn](https://www.linkedin.com/in/pruiz-ca/)
  
- [![42 stats](https://badge42.herokuapp.com/api/stats/pruiz-ca?darkmode=true&privacyName=true)](https://www.42madrid.com/en)
+#
+<div align="center">
+
+[![42 stats](https://badge42.herokuapp.com/api/stats/pruiz-ca?darkmode=true&privacyName=true)](https://www.42madrid.com/en)
+</div>
 
 <h2>Languages and tools</h2>
 <p align="center">
