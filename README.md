@@ -9,10 +9,10 @@
 [![Linkedin: pruiz-ca](https://img.shields.io/badge/-Pedro_Ruiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruiz-ca/)](https://www.linkedin.com/in/pruiz-ca/)
 [![Github](https://img.shields.io/github/followers/pruiz-ca?label=Follow&style=social)](https://github.com/pruiz-ca)
 
-- 🌱 I’m currently learning Machine Learning and Backend at [42 Madrid](https://www.42madrid.com/en/)
+- 🌱 Currently learning Machine Learning and JS at [42Madrid](https://www.42madrid.com/en/)
 - 🧑🏻‍💻 C and C++ developer
-- 👨🏻‍🎓 This is my 42 curriculum: https://companies.intra.42.fr/users/82370/resumes/5941
-- 📫 How to reach me: pruiz-ca@student.42madrid.com
+- 👨🏻‍🎓 This is my [42 curriculum](https://companies.intra.42.fr/users/82370/resumes/5941)
+- 📫 Contact me by [email](mailto:pruiz-ca@student.42madrid.com) or [LinkedIn](https://www.linkedin.com/in/pruiz-ca/)
 
 <h2>Languages and tools</h2>
 <p align="center">
