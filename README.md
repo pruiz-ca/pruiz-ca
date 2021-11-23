@@ -1,16 +1,46 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<h2>Hi there 👋🏻, I'm Pedro</h2>
 
-<!--
-**pruiz-ca/pruiz-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src=https://user-images.githubusercontent.com/74905890/143034969-0af4cd99-6a2b-44c3-b260-ecf04c96773d.gif style="object-fit: cover; width: 210px; height: 210px; float: right; border-radius: 2%">
 
-Here are some ideas to get you started:
--->
+<p><em>Engineer | Student at <a href="www.42madrid.com">42Madrid</a>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pruiz-ca.pruiz-ca)
+[![Linkedin: pruiz-ca](https://img.shields.io/badge/-Pedro_Ruiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruiz-ca/)](https://www.linkedin.com/in/pruiz-ca/)
+[![Github](https://img.shields.io/github/followers/pruiz-ca?label=Follow&style=social)](https://github.com/pruiz-ca)
 
 - 🌱 I’m currently learning C and C++ at [42 Madrid](https://www.42madrid.com/en/)
 - 👨🏻‍🎓 This is my 42 curriculum: https://companies.intra.42.fr/users/82370/resumes/5941
-- 📫 How to reach me: pruiz-ca@student.42madrid.com 
+- 📫 How to reach me: pruiz-ca@student.42madrid.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pruiz-ca&layout=compact&theme=prussian)  
-![](https://github-readme-stats.vercel.app/api?username=pruiz-ca&count_private=true&show_icons=true&theme=prussian&hide_title=true)  
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/pruiz-ca)](https://www.42madrid.com/en)
 
+<h2>Languages and tools</h2>
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="C++" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="term" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" height="40" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:2px">
+</p>
+
+<h2>Some stats</h2>
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pruiz-ca&count_private=true&show_icons=true&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=pruiz-ca&theme=tokyonight) -->
+[![42 stats](https://badge42.herokuapp.com/api/stats/pruiz-ca?darkmode=true&privacyName=true)](https://www.42madrid.com/en)
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
