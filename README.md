@@ -50,64 +50,11 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=pruiz-ca&theme=tokyonight) -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-531099%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 1,231 Contributions in the Year 2021
- > 
-> 📦 239.1 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
 ```text
-🌞 Morning    24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.67% 
-🌆 Daytime    170 commits    ██████████░░░░░░░░░░░░░░░   40.19% 
-🌃 Evening    165 commits    █████████░░░░░░░░░░░░░░░░   39.01% 
-🌙 Night      64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.13%
-
+Markdown   1 hr 16 mins    ██████████████▓░░░░░░░░░░   59.31 % 
+VimL       28 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.77 % 
+Python     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+C++        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+zsh        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       67 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.84% 
-Tuesday      96 commits     █████░░░░░░░░░░░░░░░░░░░░   22.7% 
-Wednesday    77 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
-Thursday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
-Friday       29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
-Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
-Sunday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.27%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in C** 
-
-```text
-C                        7 repos             ███████████░░░░░░░░░░░░░░   46.67% 
-C++                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
- Last Updated on 23/11/2021
 <!--END_SECTION:waka-->
