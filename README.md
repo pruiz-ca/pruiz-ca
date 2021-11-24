@@ -50,5 +50,4 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=pruiz-ca&theme=tokyonight) -->
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
