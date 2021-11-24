@@ -50,11 +50,76 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=pruiz-ca&theme=tokyonight) -->
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-530966%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 1,241 Contributions in the Year 2021
+ > 
+> 📦 239.1 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 6 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
 ```text
-Markdown   1 hr 16 mins    ██████████████▓░░░░░░░░░░   59.31 % 
-VimL       28 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.77 % 
-Python     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-C++        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-zsh        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+🌞 Morning    24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
+🌆 Daytime    174 commits    ██████████░░░░░░░░░░░░░░░   39.55% 
+🌃 Evening    169 commits    █████████░░░░░░░░░░░░░░░░   38.41% 
+🌙 Night      73 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.59%
+
 ```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
+Tuesday      105 commits    ██████░░░░░░░░░░░░░░░░░░░   23.86% 
+Wednesday    86 commits     █████░░░░░░░░░░░░░░░░░░░░   19.55% 
+Thursday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
+Friday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.36% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
+Sunday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.95%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Markdown                 1 hr 16 mins        ██████████████░░░░░░░░░░░   59.31% 
+VimL                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77% 
+Python                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
+C++                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
+zsh                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
+
+🔥 Editors: 
+VS Code                  1 hr 20 mins        ███████████████░░░░░░░░░░   62.64% 
+Vim                      48 mins             █████████░░░░░░░░░░░░░░░░   37.36%
+
+💻 Operating System: 
+Mac                      2 hrs 9 mins        █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        7 repos             ███████████░░░░░░░░░░░░░░   46.67% 
+C++                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
+
+ Last Updated on 24/11/2021
 <!--END_SECTION:waka-->
