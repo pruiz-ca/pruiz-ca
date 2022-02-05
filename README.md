@@ -4,17 +4,18 @@
 <img align="right" src=https://user-images.githubusercontent.com/74905890/143034969-0af4cd99-6a2b-44c3-b260-ecf04c96773d.gif style="object-fit: cover; height: 210px; float: right">
 
 <p>
- <em> Engineer | Student at <a href="www.42madrid.com">42Madrid</a> </em>
+ <em> Engineer | Software Developer | Student at <a href="www.42madrid.com">42Madrid - Telefónica</a> </em>
 </p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pruiz-ca.pruiz-ca)
 [![Linkedin: pruiz-ca](https://img.shields.io/badge/-Pedro_Ruiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruiz-ca/)](https://www.linkedin.com/in/pruiz-ca/)
 [![Github](https://img.shields.io/github/followers/pruiz-ca?label=Follow&style=social)](https://github.com/pruiz-ca)
 
-- 🌱 Currently learning Machine Learning and JS at [42Madrid](https://www.42madrid.com/en/)
-- 🧑🏻‍💻 C and C++ developer
-- 👨🏻‍🎓 [This](https://companies.intra.42.fr/users/82370/resumes/5941) is my 42 curriculum
-- 📫 Contact me by [email](mailto:pruiz-ca@student.42madrid.com) or [LinkedIn](https://www.linkedin.com/in/pruiz-ca/)
+- 🧑🏻‍💻 C/C++ and Ada developer working in Air Traffic Management automation.
+- 🌱 Currently learning Angular, NestJS, PostgreSQL and Machine Learning at [42Madrid](https://www.42madrid.com/en/).
+- 👨🏻‍🎓 [This](https://pedroruiz.xyz/cv.pdf) is my CV.
+- 🎧 I love music, check my [Spotify](https://open.spotify.com/user/h4m11lw0z5def98uih0ps1iur).
+- 📫 You can contact me by [Email](mailto:pruiz-ca@student.42madrid.com) or [LinkedIn](https://www.linkedin.com/in/pruiz-ca/).
  
  
 ##
@@ -29,6 +30,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width=40 height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="nestjs" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width=40 height="40" style="vertical-align:top; margin:4px">
