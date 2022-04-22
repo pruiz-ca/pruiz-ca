@@ -20,8 +20,9 @@
  
 ##
 <div align="center">
+ 
+ [![pruiz-ca's 42 stats](https://badge42.vercel.app/api/v2/cl2a1pwul002509mosyqrmbaz/stats?cursusId=21&coalitionId=66)](https://www.42madrid.com/en)
 
- [![42 stats](https://badge42.herokuapp.com/api/stats/pruiz-ca?darkmode=true&privacyName=true)](https://www.42madrid.com/en)
 </div>
 
 <h2>Languages and tools</h2>
