@@ -3,7 +3,7 @@ name: Update Readme with Waka Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "0 3 * * *"
 
 jobs:
   update-readme:
