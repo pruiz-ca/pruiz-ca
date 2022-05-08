@@ -54,11 +54,13 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=pruiz-ca&theme=tokyonight) -->
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--19%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 143 Contributions in the Year 2022
+> 🏆 144 Contributions in the Year 2022
  > 
 > 📦 251.9 kB Used in GitHub's Storage 
  > 
@@ -84,8 +86,8 @@ Monday       81 commits     ███░░░░░░░░░░░░░░�
 Tuesday      115 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.17% 
 Wednesday    98 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
 Thursday     90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Friday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
-Saturday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.33% 
+Friday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.5% 
+Saturday     93 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
 Sunday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.0%
 
 ```
@@ -125,6 +127,6 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2022 03:30:29 UTC
+ Last Updated on 08/05/2022 03:39:15 UTC
 <!--END_SECTION:waka-->
 </details>
