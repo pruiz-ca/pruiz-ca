@@ -13,7 +13,8 @@
 
 - 🧑🏻‍💻 C/C++ and Ada developer working in Air Traffic Management automation.
 - 🌱 Currently learning Angular, NestJS, PostgreSQL and Machine Learning at [42Madrid](https://www.42madrid.com/en/).
-- 👨🏻‍🎓 [This](https://pedroruiz.xyz/cv.pdf) is my CV.
+- 👨🏻‍🎓 My constantly [updated CV](https://pedroruiz.xyz/cv.pdf).
+- 🍑 You can visit my [Onlyfans](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 - 🎧 I love music, check my [Spotify](https://open.spotify.com/user/h4m11lw0z5def98uih0ps1iur).
 - 📫 You can contact me by [Email](mailto:pruiz-ca@student.42madrid.com) or [LinkedIn](https://www.linkedin.com/in/pruiz-ca/).
  
