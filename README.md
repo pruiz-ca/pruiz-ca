@@ -4,7 +4,7 @@
 <img align="right" src=https://user-images.githubusercontent.com/74905890/143034969-0af4cd99-6a2b-44c3-b260-ecf04c96773d.gif style="object-fit: cover; height: 210px; float: right">
 
 <p>
- <em> Engineer | Software Developer | Revolutionizing education at <a href="https://42berlin.de/">42Berlin</a> </em>
+ <em> Engineer | Software Developer | Staff at <a href="https://42berlin.de/">42Berlin</a> </em>
 </p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pruiz-ca.pruiz-ca)
