@@ -13,7 +13,7 @@
 
 - 👨🏻‍💻 Working with Python & Typescript
 - 👨🏻‍💻 Worked as a C/C++ and Ada developer working in Air Traffic Management automation.
-- 👨🏻‍🎓 Student at 42
+- 👨🏻‍🎓 Student at 42 Madrid - Telefónica
 - 👨🏻‍🎓 My constantly [updated CV](https://pedroruiz.xyz/cv.pdf).
 - 🍑 You can visit my [Onlyfans](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 - 🎧 I love music, check my [Spotify](https://open.spotify.com/user/h4m11lw0z5def98uih0ps1iur).
